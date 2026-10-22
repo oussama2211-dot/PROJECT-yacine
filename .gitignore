@@ -11,3 +11,7 @@ build/
 *.realm
 *.realm.lock
 *.realm.management/
+
+dist-electron/
+
+dist-electron/
