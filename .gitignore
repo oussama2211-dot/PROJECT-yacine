@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build outputs
+.expo/
+dist/
+build/
+
+# Local database files & locks
+*.realm
+*.realm.lock
+*.realm.management/
